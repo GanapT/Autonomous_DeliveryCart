@@ -4,7 +4,7 @@
 This project is designed to control a autonomous robot using the FRDM-KL46Z microcontroller. The robot utilizes PWM signals to control the motors and ADC to read light sensor values. The robot can follow a line, move forward, turn, and adjust speed based on sensor input.
 
 ### Files Included
-- `main.c`: The main program file containing all the necessary functions for motor control, ADC setup, and line tracing logic.
+- `Controls.c`: The main program file containing all the necessary functions for motor control, ADC setup, and line tracing logic.
 
 ### Requirements
 - KL46Z Microcontroller
